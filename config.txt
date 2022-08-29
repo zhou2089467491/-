@@ -30,8 +30,6 @@
 "birthday9": {"name": "小杰", "birthday": "2001-02-08"},
 "birthday10": {"name": "小驰", "birthday": "2002-05-13"},
 "birthday11": {"name": "小刚", "birthday": "2000-05-27"},
-# 相识的日子，格式同上
-"Date of recognition": "2021-10-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
